@@ -15,3 +15,5 @@ https://public.tableau.com/views/HR_17176100991070/HRAnalyticsDashboard?:languag
 👉 DATASET USED FOR PROJECT 👈
 https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?pli=1&gid=2089618187#gid=2089618187
 
+LinkedIn Profile - https://www.linkedin.com/in/amar-kahvedzic-20a02414a/
+
