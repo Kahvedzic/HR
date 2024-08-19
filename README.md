@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-Heres a fun interactive dashboard of HR analytics
+Here's a fun interactive dashboard of HR analytics
 
 Dashboard includes the following:
 - Department wise attrition
