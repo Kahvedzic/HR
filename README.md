@@ -12,4 +12,6 @@ Dashboard includes the following:
 👉 CLICK LINK BELOW FOR PROJECT FILE 👈
 https://public.tableau.com/views/HR_17176100991070/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+👉 DATASET USED FOR PROJECT 👈
+https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?pli=1&gid=2089618187#gid=2089618187
 
