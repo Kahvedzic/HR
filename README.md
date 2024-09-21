@@ -8,6 +8,8 @@ The 5 KPI's tracked include:
 4) Active employees
 5) Average age
 
+Interactive sections include:
+- Attrition by gender
 - Department wise attrition
 - Number of employees per age group
 - Job satisfaction rating
