@@ -2,11 +2,11 @@
 HR analytics Interactive dashboard
 
 The 5 KPI's tracked:
-1) Employee count
-2) Attrition count
-3) Attrition rate
-4) Active employees
-5) Average age
+- Employee count
+- Attrition count
+- Attrition rate
+- Active employees
+- Average age
 
 Interactive sections include:
 - Attrition by gender
