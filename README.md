@@ -1,7 +1,7 @@
 
 HR analytics Interactive dashboard
 
-The 5 KPI's tracked include:
+The 5 KPI's tracked:
 1) Employee count
 2) Attrition count
 3) Attrition rate
