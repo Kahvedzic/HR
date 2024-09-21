@@ -1,5 +1,5 @@
 
-HR analytics Interactive dashboard
+# HR analytics Interactive dashboard
 
 The 5 KPI's tracked:
 - Employee count
