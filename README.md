@@ -4,7 +4,7 @@ Here's a fun interactive dashboard of HR analytics
 Dashboard includes the following:
 
 - Department wise attrition
--bNumber of employees per age group
+- Number of employees per age group
 - Job satisfaction rating
 - Education field wise attrition
 - Attrition rate by gender for different age groups
