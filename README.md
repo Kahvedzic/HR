@@ -1,6 +1,9 @@
 
 # HR Analytics Interactive Dashboard (Tableau)
 
+Interactive dashboard can be found [here[(https://public.tableau.com/app/profile/amar.kahvedzic/viz/HR_17176100991070/HRAnalyticsDashboard)
+
+
 The 5 KPI's tracked:
 - Employee count
 - Attrition count
